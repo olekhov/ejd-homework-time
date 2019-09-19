@@ -1,0 +1,24 @@
+{
+	"authorName" : {
+		"message":"Vasiliy Olekhov",
+		"description":"Name of author"
+	},
+	"extensionName" : {
+		"message":"EJD Homework time",
+		"description":"Name of extension"
+	},
+	"extensionDescription" : {
+		"message":"Electronic Journal and Diary homework creation time. This extension shows additional information at https://dnevnik.mos.ru - an electronic diary used in Moscow public schools. This extension places creation date and time near each homework entry.",
+		"description":"Description of extension"
+	},
+	"createdMessage" : {
+		"message" : ", created at $date$",
+		"description" : "text added to homework table",
+		"placeholders": {
+			"date": {
+				"content": "$1",
+				"example": "27.09.2019 14:30"
+			}
+		}
+	}
+}

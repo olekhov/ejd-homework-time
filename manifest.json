@@ -1,0 +1,26 @@
+{
+	"manifest_version": 2,
+	"name": "__MSG_extensionName__",
+	"description": "__MSG_extensionDescription__",
+	"version": "1.0",
+	"default_locale":"ru",
+	"developer" : {
+		"name" : "__MSG_authorName__",
+		"url" : "https://github.com/olekhov/ejd-homework-time"
+	},
+
+	"icons": {
+		"48": "ejd.svg",
+		"72": "ejd.svg",
+		"96": "ejd.svg"
+	},
+	"permissions": [
+		"webRequest",
+		"webRequestBlocking",
+		"https://dnevnik.mos.ru/*"
+	],
+
+	"background": {
+		"scripts": ["background.js"]
+	}
+}
