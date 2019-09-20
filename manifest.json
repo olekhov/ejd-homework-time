@@ -22,5 +22,15 @@
 
 	"background": {
 		"scripts": ["background.js"]
+	},
+
+	"browser_specific_settings": {
+		"gecko": {
+			"id": "ejd-homework-time@greenone.ru",
+			"strict_min_version": "57"
+		}
 	}
+
 }
+
+
