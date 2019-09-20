@@ -14,5 +14,6 @@
 ## Инструкция по установке
 Расширение предназначено для установки в браузер Firefox версии не ниже 57.
 
-[Скачайте](https://github.com/olekhov/ejd-homework-time/releases/download/v1.0/ejd_homework_time-1.0-an+fx.xpi) файл расширения и откройте его в браузере.
+[Скачайте](https://github.com/olekhov/ejd-homework-time/releases/download/v1.0/ejd_homework_time-1.0-an+fx.xpi),
+браузер попросит подверждение установки; расширение установится автоматически.
 
